@@ -1,4 +1,10 @@
 # ui-gen
+
+
+working demo clip 
+
+https://www.linkedin.com/posts/abhinav-y-121025230_ai-generativeai-aiengineering-activity-7431899345664466944-V2S4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmrBGkB2gcPxRSs5VHXszMV4Vi6mAWB3gk
+
 <pre>
  [ UI Screenshot ]
                │
