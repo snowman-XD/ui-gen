@@ -1,20 +1,21 @@
 # ui-gen
 <pre>
-  [ Screenshot ] 
-      │
-      ▼
-┌───────────────┐
-│  LLM Logic    │──► (Vision Analysis)
-│  Reasoning    │──► (Code Generation)
-└───────────────┘
-      │
-      ▼
-┌───────────────┐
-│  GitHub Repo  │──► [ GitHub Actions ]
-└───────────────┘
-      │
-      ▼
-[   Live URL    ] 
+ [ UI Screenshot ]
+               │
+               ▼
+    ┌──────────────────────┐
+    │      LLM REASONING   │──► (Vision Analysis)
+    │   Code Generation    │──► (Component Mapping)
+    └──────────────────────┘
+               │
+               ▼
+    ┌──────────────────────┐
+    │      GITHUB PUSH     │──► [ GitHub Actions ]
+    │   Version Control    │──► [ CI/CD Trigger ]
+    └──────────────────────┘
+               │
+               ▼
+       [ 🌐  LIVE URL  ] 
 </pre>
 
 
