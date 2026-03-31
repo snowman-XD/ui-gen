@@ -5,24 +5,8 @@ working demo clip
 
 https://www.linkedin.com/posts/abhinav-y-121025230_ai-generativeai-aiengineering-activity-7431899345664466944-V2S4?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmrBGkB2gcPxRSs5VHXszMV4Vi6mAWB3gk
 
-<pre>
- [ UI Screenshot ]
-               │
-               ▼
-    ┌──────────────────────┐
-    │      LLM REASONING   │──► (Vision Analysis)
-    │   Code Generation    │──► (Component Mapping)
-    └──────────────────────┘
-               │
-               ▼
-    ┌──────────────────────┐
-    │      GITHUB PUSH     │──► [ GitHub Actions ]
-    │   Version Control    │──► [ CI/CD Trigger ]
-    └──────────────────────┘
-               │
-               ▼
-       [ 🌐  LIVE URL  ] 
-</pre>
+<img width="1325" height="610" alt="Screenshot 2026-03-22 at 2 08 19 AM" src="https://github.com/user-attachments/assets/13ad9128-6686-4f67-91cf-8db7cc20a866" />
+
 
 
 uploaded screenshot
